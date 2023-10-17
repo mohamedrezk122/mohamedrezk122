@@ -7,6 +7,7 @@
 ## Programming setup
 - Void Linux
 - i3wm with i3blocks
+- emacs 
 - LunarVIM / Micro editor / Sublime Text 4
 - Zsh shell
 - st terminal
